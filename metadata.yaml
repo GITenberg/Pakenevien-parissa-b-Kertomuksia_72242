@@ -1,0 +1,35 @@
+_repo: Pakenevien-parissa-b-Kertomuksia_72242
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salmela, Marja
+    aliases:
+    - Stenroth, Naemi Maria‏
+    - Stenroth, Maria‏
+    birthdate: 1875
+    deathdate: 1924
+    gutenberg_agent_id: '6031'
+    url: http://www.gutenberg.org/2009/agents/6031
+    wikipedia: https://fi.wikipedia.org/wiki/Marja_Salmela
+description: ''
+gutenberg_issued: '2023-11-27'
+identifiers:
+  gutenberg: '72242'
+language: fi
+pgterms:marc905: 20231016101559salmela
+pgterms:marc906: '1914'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Lapset -- Elena Edwardownan tarina -- Leipää -- Appi-isä -- Yksi
+  lukemattomien joukosta.
+title: 'Pakenevien parissa : $b Kertomuksia'
+url: http://www.gutenberg.org/ebooks/72242
